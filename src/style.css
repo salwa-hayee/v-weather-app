@@ -46,9 +46,10 @@ li:first-letter {
 }
 
 .weather-temperature img {
-  margin-right: 5px;
-  height: 64px;
-  width: 64px;
+  height: 90px;
+  width: 90px;
+  position: relative;
+  top: -12px;
 }
 
 .weather-temperature strong {
